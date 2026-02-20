@@ -18,5 +18,5 @@ int main(void) {
         arr[i] = i;
     }
 
-    return result * arr[2];
+    return result * arr[3];
 }
